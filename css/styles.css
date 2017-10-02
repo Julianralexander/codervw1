@@ -2,3 +2,7 @@ blockquote {
   color: grey;
 
 }
+
+.jumbotron {
+   background: linear-gradient(to right, #ffffff, #aaaaaa, #999999);
+}
