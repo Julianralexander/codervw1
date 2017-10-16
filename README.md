@@ -2,7 +2,9 @@
 The first independent project / code review for the fall 17' Epicodus intro to programming class.
 
 ## Installation
-None necessary
+Clone the Repository {https://github.com/Julianralexander/codervw1.git} into the home directory
+Extract all the folders
+Open in Browser
 ## Usage
 Open the webpage
 Enjoy
